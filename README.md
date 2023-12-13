@@ -58,7 +58,7 @@ Briefly describe the purpose and goals of your sales forecasting project. Includ
 ### Prerequisites
 
 # Importing necessary libraries
-<!-- import numpy as np -->
+<!-- and --> import numpy as np
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler, StandardScaler, OneHotEncoder
 from sklearn.model_selection import train_test_split
@@ -75,7 +75,6 @@ import streamlit as st
 # Installing required packages
 # Run this command in your terminal or Jupyter Notebook cell
 # pip install numpy pandas scikit-learn seaborn matplotlib xgboost streamlit
-
 
 
 
