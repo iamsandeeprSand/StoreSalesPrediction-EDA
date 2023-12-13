@@ -76,6 +76,30 @@ Briefly describe the purpose and goals of your sales forecasting project. Includ
 # Run this command in your terminal or Jupyter Notebook cell
 <!-- and --> pip install numpy pandas scikit-learn seaborn matplotlib xgboost streamlit
 
+## Exploratory Data Analysis (EDA)
+
+The EDA phase explores the dataset, uncovering patterns, outliers, and trends. Key findings from the EDA process include [summarize key insights].
+
+## Sales Prediction
+
+The sales prediction module utilizes [mention the models or algorithms used] to forecast store sales. [Discuss any notable results or challenges encountered during the prediction process.]
+
+## Visualizations
+
+Visualizations for this project have been created using both Power BI and Tableau. Here are links to the interactive dashboards:
+
+- [Power BI Dashboard](#) [https://app.powerbi.com/links/MEn-cMBmW4?ctid=1f8ca2d2-8b29-4086-8354-e9b31ca9d140&pbi_source=linkShare]
+- [Tableau Dashboard](#) [https://public.tableau.com/app/profile/sandeep.r8535/viz/Sales_17017479255590/Dashboard2?publish=yes]
+
+These visualizations enhance the interpretability of the analysis and provide an interactive way to explore the insights.
+
+## Technologies Used
+
+- Python
+- Power BI
+- Tableau
+- Streamlit
+
 ![image](https://github.com/iamsandeeprSand/StoreSalesPrediction-EDA/assets/139530620/b4f70d2c-401c-48d7-b40d-80a931f3961a)
 
 ![image](https://github.com/iamsandeeprSand/StoreSalesPrediction-EDA/assets/139530620/37cdf4db-4b35-426e-ae9a-ffba57af042e)
