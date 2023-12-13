@@ -59,22 +59,22 @@ Briefly describe the purpose and goals of your sales forecasting project. Includ
 
 # Importing necessary libraries
 <!-- and --> import numpy as np
-import pandas as pd
-from sklearn.preprocessing import MinMaxScaler, StandardScaler, OneHotEncoder
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, mean_absolute_error, mean_squared_error
-import seaborn as sns
-import matplotlib.pyplot as plt
-from sklearn import tree
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.tree import DecisionTreeRegressor
-from sklearn import metrics
-from xgboost import XGBRegressor
-import streamlit as st
+<!-- and -->import pandas as pd
+<!-- and -->from sklearn.preprocessing import MinMaxScaler, StandardScaler, OneHotEncoder
+<!-- and -->from sklearn.model_selection import train_test_split
+<!-- and -->from sklearn.metrics import accuracy_score, mean_absolute_error, mean_squared_error
+<!-- and -->import seaborn as sns
+<!-- and -->import matplotlib.pyplot as plt
+<!-- and -->from sklearn import tree
+<!-- and -->from sklearn.ensemble import RandomForestRegressor
+<!-- and -->from sklearn.tree import DecisionTreeRegressor
+<!-- and -->from sklearn import metrics
+<!-- and -->from xgboost import XGBRegressor
+<!-- and -->import streamlit as st
 
 # Installing required packages
 # Run this command in your terminal or Jupyter Notebook cell
-# pip install numpy pandas scikit-learn seaborn matplotlib xgboost streamlit
+<!-- and --> pip install numpy pandas scikit-learn seaborn matplotlib xgboost streamlit
 
 
 
