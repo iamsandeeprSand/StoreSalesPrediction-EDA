@@ -76,6 +76,11 @@ Briefly describe the purpose and goals of your sales forecasting project. Includ
 # Run this command in your terminal or Jupyter Notebook cell
 <!-- and --> pip install numpy pandas scikit-learn seaborn matplotlib xgboost streamlit
 
+![image](https://github.com/iamsandeeprSand/StoreSalesPrediction-EDA/assets/139530620/b4f70d2c-401c-48d7-b40d-80a931f3961a)
+
+![image](https://github.com/iamsandeeprSand/StoreSalesPrediction-EDA/assets/139530620/37cdf4db-4b35-426e-ae9a-ffba57af042e)
+
+
 
 
 
