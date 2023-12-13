@@ -104,6 +104,9 @@ These visualizations enhance the interpretability of the analysis and provide an
 
 ![image](https://github.com/iamsandeeprSand/StoreSalesPrediction-EDA/assets/139530620/37cdf4db-4b35-426e-ae9a-ffba57af042e)
 
+![image](https://github.com/iamsandeeprSand/StoreSalesPrediction-EDA/assets/139530620/fb216dd9-4eef-4744-93e3-18d16b264b27)
+
+
 
 
 
